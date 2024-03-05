@@ -1,0 +1,3 @@
+Make sure you have RSpec installed by running 'gem install rspec' in your terminal.
+Goto main folder where controller and spec folder present
+Then run "bundle exec rspec" it will automatically run the spec.
